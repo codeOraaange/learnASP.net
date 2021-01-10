@@ -1,0 +1,22 @@
+@model Category
+<h3>Edit Category</h3>
+
+<div class="row" >
+    <div class="col">
+        <form asp-action="Edit" Method="Post">
+            <input type="hidden" asp-for="Id">
+            <div class="from-group">
+                <label asp-for="Name" class="control-label">
+                    Name
+                </label>
+                <input asp-for="Name" class="form-control">
+            </div>
+            <div class="form-group">
+                <button
+                type="submit"
+                class="btn btn-success"
+                >Save</button>
+            <div>
+        </form>
+    </div>
+</div>         

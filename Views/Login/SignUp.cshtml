@@ -1,0 +1,20 @@
+@* // .row                  kmh carana auto cik?*@
+
+<div class="row" >
+    <div class="col">
+        <form asp-action="SignUp" enctype="multipart/form-data"  Method="Post">
+            <div class="form-group">
+                <label class="control-label">Username</label>
+                <input class="form-control" name="username">
+            </div>
+            <div class="form-group">
+                <label class="control-label" >Password</label>
+                <input class="form-control"  type="password" name="password">
+            </div>
+            <div class="form-group">
+                <button class="btn tbn-success">Sign Up</button>
+            </div>
+        </form>
+        <a href='@Url.Action("SignUp", "Login")'>Create an Account</a>
+    </div>
+</div>

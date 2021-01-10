@@ -1,0 +1,459 @@
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\appsettings.json
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\sportstore.exe
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\sportstore.deps.json
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\sportstore.runtimeconfig.json
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\sportstore.runtimeconfig.dev.json
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\sportstore.dll
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\sportstore.pdb
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\sportstore.Views.dll
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\sportstore.Views.pdb
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\Npgsql.dll
+D:\@kry\fundamenta\sportstore\bin\Debug\netcoreapp3.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\sportstore.csprojAssemblyReference.cache
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\staticwebassets\sportstore.StaticWebAssets.Manifest.cache
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\staticwebassets\sportstore.StaticWebAssets.xml
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\sportstore.MvcApplicationPartsAssemblyInfo.cache
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorAssemblyInfo.cache
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorAssemblyInfo.cs
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\sportstore.AssemblyInfoInputs.cache
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\sportstore.AssemblyInfo.cs
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\sportstore.TagHelpers.input.cache
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\sportstore.TagHelpers.output.cache
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorCoreGenerate.cache
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorTargetAssemblyInfo.cache
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorTargetAssemblyInfo.cs
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\sportstore.Views.pdb
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\sportstore.csproj.CopyComplete
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\sportstore.dll
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\sportstore.pdb
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
+D:\@kry\fundamenta\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\sportstore.exe
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\sportstore.deps.json
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\sportstore.runtimeconfig.json
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\sportstore.runtimeconfig.dev.json
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\sportstore.dll
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\sportstore.pdb
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\sportstore.Views.dll
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\sportstore.Views.pdb
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\Npgsql.dll
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\sportstore.csprojAssemblyReference.cache
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\staticwebassets\sportstore.StaticWebAssets.Manifest.cache
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\staticwebassets\sportstore.StaticWebAssets.xml
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\sportstore.MvcApplicationPartsAssemblyInfo.cache
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorAssemblyInfo.cache
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorAssemblyInfo.cs
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\sportstore.AssemblyInfoInputs.cache
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\sportstore.AssemblyInfo.cs
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\sportstore.TagHelpers.input.cache
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\sportstore.TagHelpers.output.cache
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorCoreGenerate.cache
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorTargetAssemblyInfo.cache
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorTargetAssemblyInfo.cs
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\sportstore.Views.pdb
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\sportstore.csproj.CopyComplete
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\sportstore.dll
+D:\Pundamental\sportstore\obj\Debug\netcoreapp3.0\sportstore.pdb
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\Pundamental\sportstore\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\appsettings.Development.json
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\appsettings.json
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\sportstore.exe
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\sportstore.deps.json
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\sportstore.runtimeconfig.json
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\sportstore.runtimeconfig.dev.json
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\sportstore.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\sportstore.pdb
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\sportstore.Views.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\sportstore.Views.pdb
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\Npgsql.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+E:\.net\sportstore\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\sportstore.csprojAssemblyReference.cache
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\staticwebassets\sportstore.StaticWebAssets.Manifest.cache
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\staticwebassets\sportstore.StaticWebAssets.xml
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\sportstore.MvcApplicationPartsAssemblyInfo.cache
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorAssemblyInfo.cache
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorAssemblyInfo.cs
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\sportstore.AssemblyInfoInputs.cache
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\sportstore.AssemblyInfo.cs
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\sportstore.TagHelpers.input.cache
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\sportstore.TagHelpers.output.cache
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorCoreGenerate.cache
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorTargetAssemblyInfo.cache
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorTargetAssemblyInfo.cs
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\sportstore.Views.pdb
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\sportstore.csproj.CopyComplete
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\sportstore.dll
+E:\.net\sportstore\obj\Debug\netcoreapp3.0\sportstore.pdb
+D:\NENG\sportstore\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\NENG\sportstore\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\NENG\sportstore\bin\Debug\netcoreapp3.0\appsettings.json
+D:\NENG\sportstore\bin\Debug\netcoreapp3.0\sportstore.exe
+D:\NENG\sportstore\bin\Debug\netcoreapp3.0\sportstore.deps.json
+D:\NENG\sportstore\bin\Debug\netcoreapp3.0\sportstore.runtimeconfig.json
+D:\NENG\sportstore\bin\Debug\netcoreapp3.0\sportstore.runtimeconfig.dev.json
+D:\NENG\sportstore\bin\Debug\netcoreapp3.0\sportstore.dll
+D:\NENG\sportstore\bin\Debug\netcoreapp3.0\sportstore.pdb
+D:\NENG\sportstore\bin\Debug\netcoreapp3.0\sportstore.Views.dll
+D:\NENG\sportstore\bin\Debug\netcoreapp3.0\sportstore.Views.pdb
+D:\NENG\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\NENG\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NENG\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NENG\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NENG\sportstore\bin\Debug\netcoreapp3.0\Npgsql.dll
+D:\NENG\sportstore\bin\Debug\netcoreapp3.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\sportstore.csprojAssemblyReference.cache
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\staticwebassets\sportstore.StaticWebAssets.Manifest.cache
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\staticwebassets\sportstore.StaticWebAssets.xml
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\sportstore.MvcApplicationPartsAssemblyInfo.cache
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorAssemblyInfo.cache
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorAssemblyInfo.cs
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\sportstore.AssemblyInfoInputs.cache
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\sportstore.AssemblyInfo.cs
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\sportstore.TagHelpers.input.cache
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\sportstore.TagHelpers.output.cache
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorCoreGenerate.cache
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorTargetAssemblyInfo.cache
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorTargetAssemblyInfo.cs
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\sportstore.Views.pdb
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\sportstore.csproj.CopyComplete
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\sportstore.dll
+D:\NENG\sportstore\obj\Debug\netcoreapp3.0\sportstore.pdb
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\sportstore.exe
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\sportstore.deps.json
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\sportstore.runtimeconfig.json
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\sportstore.runtimeconfig.dev.json
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\sportstore.dll
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\sportstore.pdb
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\sportstore.Views.dll
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\sportstore.Views.pdb
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\Npgsql.dll
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\Hana Hasanah\New folder\sportstore\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\sportstore.csprojAssemblyReference.cache
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\staticwebassets\sportstore.StaticWebAssets.Manifest.cache
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\staticwebassets\sportstore.StaticWebAssets.xml
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\sportstore.MvcApplicationPartsAssemblyInfo.cache
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorAssemblyInfo.cache
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorAssemblyInfo.cs
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\sportstore.AssemblyInfoInputs.cache
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\sportstore.AssemblyInfo.cs
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\sportstore.TagHelpers.input.cache
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\sportstore.TagHelpers.output.cache
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorCoreGenerate.cache
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorTargetAssemblyInfo.cache
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorTargetAssemblyInfo.cs
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\sportstore.Views.pdb
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\sportstore.csproj.CopyComplete
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\sportstore.dll
+D:\Hana Hasanah\New folder\sportstore\obj\Debug\netcoreapp3.0\sportstore.pdb
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\sportstore.exe
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\sportstore.deps.json
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\sportstore.runtimeconfig.json
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\sportstore.runtimeconfig.dev.json
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\sportstore.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\sportstore.pdb
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\sportstore.Views.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\sportstore.Views.pdb
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Npgsql.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\sportstore.csprojAssemblyReference.cache
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\staticwebassets\sportstore.StaticWebAssets.Manifest.cache
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\staticwebassets\sportstore.StaticWebAssets.xml
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\sportstore.MvcApplicationPartsAssemblyInfo.cache
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorAssemblyInfo.cache
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorAssemblyInfo.cs
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\sportstore.AssemblyInfoInputs.cache
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\sportstore.AssemblyInfo.cs
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\sportstore.TagHelpers.input.cache
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\sportstore.TagHelpers.output.cache
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorCoreGenerate.cache
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorTargetAssemblyInfo.cache
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorTargetAssemblyInfo.cs
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\sportstore.Views.pdb
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\sportstore.csproj.CopyComplete
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\sportstore.dll
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\sportstore.pdb
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Core.dll
+D:\Hana Hasanah\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Login.cshtml.g.cs
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Register.cshtml.g.cs
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Login\login.cshtml.g.cs
+D:\Hana Hasanah\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Login\SignUp.cshtml.g.cs
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\appsettings.json
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\sportstore.exe
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\sportstore.deps.json
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\sportstore.runtimeconfig.json
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\sportstore.runtimeconfig.dev.json
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\sportstore.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\sportstore.pdb
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\sportstore.Views.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\sportstore.Views.pdb
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Core.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Stores.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Npgsql.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\sportstore.csprojAssemblyReference.cache
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\staticwebassets\sportstore.StaticWebAssets.Manifest.cache
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\staticwebassets\sportstore.StaticWebAssets.xml
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\sportstore.MvcApplicationPartsAssemblyInfo.cache
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorAssemblyInfo.cache
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorAssemblyInfo.cs
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\sportstore.AssemblyInfoInputs.cache
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\sportstore.AssemblyInfo.cs
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\sportstore.TagHelpers.input.cache
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\sportstore.TagHelpers.output.cache
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorCoreGenerate.cache
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Register.cshtml.g.cs
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Login\Login.cshtml.g.cs
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Login\SignUp.cshtml.g.cs
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorTargetAssemblyInfo.cache
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\sportstore.RazorTargetAssemblyInfo.cs
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\sportstore.Views.pdb
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\sportstore.csproj.CopyComplete
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\sportstore.dll
+C:\HANA HASANAH\DONE gdrive\sportstore\obj\Debug\netcoreapp3.0\sportstore.pdb

@@ -1,0 +1,31 @@
+@model Product
+<h3>Edit Product</h3>
+
+<div class="row" >
+    <div class="col">
+        <form asp-action="Edit" enctype="multipart/form-data"  Method="Post">
+            <div class="form-group">
+                <label class="control-label"  asp-for="Name">Nama</label>
+                <input class="form-control"  type="text" asp-for="Name">
+            </div>
+            <div class="form-group">
+                <label class="control-label"  asp-for="Description">Deskripsi</label>
+                <input class="form-control"  type="text" asp-for="Description">
+            </div>
+            <div class="form-group">
+                <label class="control-label"  asp-for="Price">Harga</label>
+                <input class="form-control"  type="text" asp-for="Price">
+            </div>
+            <div class="form-group">
+                <label class="control-label"  asp-for="img">Picture</label>
+                <input class="form-control"  type="file" asp-for="img">
+            </div>
+            
+            <div class="form-group">
+                <button type="submit" class="btn btn-danger">
+                    Save
+                </button>
+            </div>
+        </form>
+    </div>
+</div>         

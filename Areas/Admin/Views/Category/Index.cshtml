@@ -1,0 +1,71 @@
+@model PaginationHelper<Category>
+
+<h3>All Category</h3>
+<div class ="row">
+    <div class="col">
+        <a href="@Url.Action("Create","Category",
+        new {Area = "Admin"})" class="btn btn-info"
+        >
+        Add Category
+        </a>
+        <table class="table">
+            <thead>
+                <tr align="center">
+                    <th>Nama</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                   <tr align="center">
+                        <td>@item.Name </td>
+                        <td>
+                            <a href="@Url.Action("Edit","Category",
+                            new {Area="Admin",id=@item.Id})" 
+                            class="btn btn-primary btn-sm"
+                            >Edit</a>
+                            <button class="btn btn-danger btn-sm"
+                            type="button"
+                            onclick="deleteCategory(@item.Id)"
+                            >
+                                Delete
+                            </button>
+                        </td>
+                    </tr>  
+                }
+            </tbody>
+        </table>
+         @{
+            var prevDisabled =
+                !Model.HasPrevPage ? "disabled" : "";
+            var nextDisabled =
+                !Model.HasNextPage ? "disabled" : "";
+            
+        }
+
+        <a asp-action= "Index"
+            asp-route-pageNumber="@(Model.PageIndex -1)"
+            class = "btn btn-default @prevDisabled"
+             >
+            Previous
+        </a>
+        <a asp-action= "Index"
+            asp-route-pageNumber="@(Model.PageIndex +1)"
+            class = "btn btn-default @nextDisabled "
+             >
+            Next
+        </a> 
+    </div>
+</div>
+@section Scripts{
+    <script>
+        function deleteCategory(id)
+        {
+            if(window.confirm("Yakin ingin menghapusnya ?"))
+            {
+                window .location.href="/Admin/Category/delete/"+id
+            }
+        }
+    </script>
+}
